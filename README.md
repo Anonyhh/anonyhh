@@ -30,5 +30,5 @@
 [<img src="https://img.shields.io/badge/Youtube-282C34?logo=youtube&logoColor=E21212" alt="Youtube logo" title="Youtube" height="25" />](https://www.youtube.com/channel/UCdgX2LUjOa3mlS_dWTs659w)
 
 
-[learning_now_anchor]: #learned
-[learning_next_anchor]: #learning
+[learned_anchor]: #learned
+[learning_anchor]: #learning
