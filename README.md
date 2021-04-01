@@ -2,7 +2,7 @@
 
 ## 🛠  Languages
 
-<a name="learning-now"></a>
+<a name="learned"></a>
 
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -16,7 +16,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/C Sharp-282C34?logo=c#&logoColor=5C12DE" alt="C Sharp logo" title="C Sharp" height="25" />][tech_tools_anchor]
 &nbsp;
-<a name="learning-next"></a>
+<a name="learning"></a>
 
 ## 📖  Learning...
 
@@ -30,6 +30,5 @@
 [<img src="https://img.shields.io/badge/Youtube-282C34?logo=youtube&logoColor=E21212" alt="Youtube logo" title="Youtube" height="25" />](https://www.youtube.com/channel/UCdgX2LUjOa3mlS_dWTs659w)
 
 
-[tech_tools_anchor]: #bonjour--
-[learning_now_anchor]: #learning-now
-[learning_next_anchor]: #learning-next
+[learning_now_anchor]: #learned
+[learning_next_anchor]: #learning
