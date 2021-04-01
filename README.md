@@ -25,20 +25,6 @@
 [<img src="https://img.shields.io/badge/C%2B%2B-282C34?logo=c&logoColor=1250DE" alt="C%2B%2B" title="C%2B%2B" height="25" />][learning_now_anchor]
 &nbsp;
 
-## 👾  What I am interested in learning at some point
-
-[<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
-
 ## 🔍  Where to find me
 
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=twitter&logoColor=0C9ADC" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://twitter.com/anonyhhh)
