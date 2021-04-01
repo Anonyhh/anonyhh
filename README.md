@@ -43,7 +43,7 @@
 
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/10927329/valentin-briand)
 &nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=youtube&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/valentinbriand42)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=youtube&logoColor=E21212" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.youtube.com/channel/UCdgX2LUjOa3mlS_dWTs659w)
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
