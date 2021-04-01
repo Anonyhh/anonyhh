@@ -22,7 +22,7 @@
 
 ## 📖  What I am currently learning / improving on
 
-[<img src="https://img.shields.io/badge/C + +-282C34?logo=c&logoColor=1250DE" alt="C + +" title="C + + height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/C%2B%2B-282C34?logo=c&logoColor=1250DE" alt="C%2B%2B" title="C%2B%2B" height="25" />][learning_now_anchor]
 &nbsp;
 
 ## 👾  What I am interested in learning at some point
