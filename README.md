@@ -22,11 +22,8 @@
 
 ## 📖  What I am currently learning / improving on
 
-[<img src="https://img.shields.io/badge/Node.js-282C34?logo=c&logoColor=1250DE" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/C++-282C34?logo=c&logoColor=1250DE" alt="C++" title="C++ height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_now_anchor]
 
 ## 👾  What I am interested in learning at some point
 
