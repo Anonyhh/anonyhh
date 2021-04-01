@@ -14,7 +14,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=F7DF1-126FDE" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Php-282C34?logo=python&logoColor=F7DF1-126FDE" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Php-282C34?logo=php&logoColor=F7DF1-126FDE" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
 &nbsp;
 
 <a name="learning-next"></a>
