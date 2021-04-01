@@ -2,7 +2,7 @@
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 
-## 🛠  Technologies and tools
+## 🛠  Languages
 
 <a name="learning-now"></a>
 
@@ -13,6 +13,8 @@
 [<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=F7DF1-126FDE" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Php-282C34?logo=python&logoColor=F7DF1-126FDE" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
 &nbsp;
 
 <a name="learning-next"></a>
