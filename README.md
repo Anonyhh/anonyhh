@@ -1,7 +1,5 @@
 # Welcome ! 🥖
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
-
 ## 🛠  Languages
 
 <a name="learning-now"></a>
@@ -14,7 +12,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=F7DF1-126FDE" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Php-282C34?logo=php&logoColor=F7DF1-126FDE" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Php-282C34?logo=php&logoColor=F7DF1-126FDE" alt="Php logo" title="Php" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/C Sharp-282C34?logo=c#&logoColor=5C12DE" alt="C Sharp logo" title="C Sharp" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -27,10 +25,6 @@
 
 ## 🔍  Where to find me
 
-[<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=twitter&logoColor=0C9ADC" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://twitter.com/anonyhhh)
+[<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=twitter&logoColor=0C9ADC" alt="Twitter logo" title="Stack Overflow" height="25" />](https://twitter.com/anonyhhh)
 &nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=youtube&logoColor=E21212" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.youtube.com/channel/UCdgX2LUjOa3mlS_dWTs659w)
-
-[tech_tools_anchor]: #bonjour--
-[learning_now_anchor]: #learning-now
-[learning_next_anchor]: #learning-next
+[<img src="https://img.shields.io/badge/Youtube-282C34?logo=youtube&logoColor=E21212" alt="Youtube logo" title="Youtube" height="25" />](https://www.youtube.com/channel/UCdgX2LUjOa3mlS_dWTs659w)
