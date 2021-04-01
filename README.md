@@ -16,14 +16,12 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Php-282C34?logo=php&logoColor=F7DF1-126FDE" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Php-282C34?logo=Css&logoColor=F7DF1-126FDE" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
-&nbsp;
 
 <a name="learning-next"></a>
 
 ## 📖  What I am currently learning / improving on
 
-[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Node.js-282C34?logo=c++&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_now_anchor]
 &nbsp;
