@@ -28,3 +28,8 @@
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=twitter&logoColor=0C9ADC" alt="Twitter logo" title="Stack Overflow" height="25" />](https://twitter.com/anonyhhh)
 &nbsp;
 [<img src="https://img.shields.io/badge/Youtube-282C34?logo=youtube&logoColor=E21212" alt="Youtube logo" title="Youtube" height="25" />](https://www.youtube.com/channel/UCdgX2LUjOa3mlS_dWTs659w)
+
+
+[tech_tools_anchor]: #bonjour--
+[learning_now_anchor]: #learning-now
+[learning_next_anchor]: #learning-next
