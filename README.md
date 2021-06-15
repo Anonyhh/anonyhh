@@ -8,6 +8,6 @@ discord.gg/nixakanazis
   </pre>
 </details>
 
-[![Gituhub](https://github-readme-stats.vercel.app/api?username=Ryo069&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Gituhub](https://github-readme-stats.vercel.app/api?username=Anonyhh&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo069&exclude_repo=eslint-config&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Anonyhh&exclude_repo=eslint-config&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
